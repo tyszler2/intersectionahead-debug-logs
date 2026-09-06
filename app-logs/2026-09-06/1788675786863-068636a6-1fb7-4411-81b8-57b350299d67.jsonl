@@ -1,0 +1,1 @@
+{"disposition":"expired_by_local_retention_not_uploaded","expiredOrdinaryBytes":811642713,"expiredOrdinaryRecords":56687,"kind":"telemetry_retention_expiry","newestExpiredTimestamp":1788558640.9108992,"oldestExpiredTimestamp":1788065235.3732219,"retentionPolicy":"hours24","telemetryEvent":"telemetry_retention_expiry","timestamp":1788673227.9723449}
