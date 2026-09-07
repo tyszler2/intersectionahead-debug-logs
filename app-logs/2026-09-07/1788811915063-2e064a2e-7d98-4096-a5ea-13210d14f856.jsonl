@@ -1,0 +1,1 @@
+{"id":"diagnostic|MXDiagnosticPayload|1788799320.0|1788799320.0","type":"diagnostic","intervalStart":1788799320,"availability":"delivered","intervalEnd":1788799320,"unavailableFields":["cpu_exception","hang","disk_write","crash","app_launch","daily_cpu","daily_memory","daily_energy","daily_disk"]}
