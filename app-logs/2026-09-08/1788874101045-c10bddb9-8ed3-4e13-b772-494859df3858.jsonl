@@ -1,0 +1,2 @@
+{"intervalStart":1788846279.500386,"intervalEnd":1788846279.500386,"availability":"delivered","unavailableFields":["cpu_exception","hang","disk_write","crash","app_launch","daily_cpu","daily_memory","daily_energy","daily_disk"],"type":"metric","id":"metric|1788846279.500386|1788846279.500386"}
+{"id":"metric|1788753600.0|1788840000.0","type":"metric","availability":"delivered","intervalStart":1788753600,"intervalEnd":1788840000,"unavailableFields":["cpu_exception","hang","disk_write","crash","app_launch","daily_cpu","daily_memory","daily_energy","daily_disk"]}
